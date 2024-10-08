@@ -1,1 +1,1 @@
-hello
+pkg update
